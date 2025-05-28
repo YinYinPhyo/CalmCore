@@ -1,23 +1,30 @@
-CalmCore Mindfulness Platform
+# CalmCore Mindfulness Platform
 
-August 2024 to August 2024
+**Final Individual Project – Web Services Techniques and REST Technologies (August 2024)**  
+**Duration:** 3 weeks  
+**Technologies:** FastAPI · Python · SQLAlchemy · Firebase Storage · React · Node.js · React-Bootstrap · HTML
 
-Final Individual Project: Web Services Techniques and REST Technologies Course
-Duration: 3 weeks*
-Technologies: FastAPI, SQLAlchemy, Python, Firebase Storage, React, Node.js, HTML, React-Bootstrap
+## Overview
+CalmCore is a full-stack mindfulness platform created to support mental wellness through guided meditations, educational articles, and relaxing sounds. It offers role-based functionality for general users and administrators, enabling both content consumption and backend management.
 
-Overview: Developed a comprehensive mindfulness platform, CalmCore, designed to facilitate better mental health and relaxation through meditations, articles, and sounds. This platform supports diverse user roles, including general users and administrators, catering to both public access and content management.
+## Features
+- Full CRUD functionality to manage meditations, articles, sound categories, and individual sound files
+- Backend API built with FastAPI and SQLAlchemy for scalable RESTful endpoints
+- Frontend UI developed using React and React-Bootstrap for responsive interaction
+- Firebase Storage integration for secure and efficient media uploads
 
-Responsibilities:
-Engineered both the backend and frontend of the platform using cutting-edge technologies such as FastAPI for the API services and React for the interactive user interface.
-Implemented full CRUD operations for managing meditations, articles, sound categories, and individual sounds, ensuring dynamic content availability and administration.
-Engaged in the entire software development lifecycle, from requirement gathering to deployment, emphasizing clean, maintainable code.
+## Architecture Highlights
+- Backend: FastAPI with modular routers and SQLAlchemy-based data models
+- Frontend: React SPA featuring API-connected components and Bootstrap styling
+- Storage: Firebase used for audio content management
 
-Future Enhancements:
-Feature Enhancements: Plans to integrate interactive elements like user feedback and personalized recommendations to enrich user engagement.
-Content Expansion: Aiming to continuously broaden the content library with new offerings such as live sessions and community forums.
-Mobile App Development: Exploring the creation of a mobile application to offer users more convenient access to CalmCore features on mobile devices.
-Outcome: Successfully launched a functional mindfulness website, enhancing user accessibility to mental health resources. The platform is set for future expansions to include additional interactive and mobile features, promising ongoing improvements and user engagement.
+## Outcome
+Successfully launched a functional mindfulness website that enhances user access to mental health resources. Designed for ease of use and maintainability, the platform supports real-time content management by administrators.
 
-Project Demo Video
-https://www.youtube.com/watch?v=g36cGCLnQoM
+## Future Enhancements
+- Add interactive features such as user feedback and personalized content recommendations
+- Expand content offerings with live sessions and community forums
+- Develop a native mobile application for wider accessibility
+
+## Demo
+[Watch Project Demo on YouTube](https://www.youtube.com/watch?v=g36cGCLnQoM)
